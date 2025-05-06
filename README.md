@@ -37,10 +37,11 @@ The notebook includes the following sections:
 To run this notebook, you will need:
 
 * **Python 3** installed on your system.
-* The following Python libraries (you can install them using pip):
+
+* The required Python libraries.  It is recommended to install these using `pip` and the provided `requirements.txt` file.  You can do this by navigating to the directory containing the notebook and running:
 
     ```bash
-    pip install pandas scikit-learn matplotlib seaborn binance-python yfinance python-dotenv tensorflow
+    pip install -r requirements.txt
     ```
 * A **Binance account** and your **API key and secret**.
 
