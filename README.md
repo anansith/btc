@@ -72,4 +72,9 @@ This section could outline potential areas for future work, such as:
 
 ## Author
 
-[Your Name/Organization - if applicable]
+* Anansith Pisankorsakul
+    * anansith2545@gmail.com
+    * King Mongkut’s University of Technology Thonburi
+* Peerawas Temboonsaran
+    * zing36247@gmail.com
+    * King Mongkut’s University of Technology Thonburi
